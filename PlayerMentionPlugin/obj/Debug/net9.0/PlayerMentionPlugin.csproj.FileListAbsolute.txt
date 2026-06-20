@@ -1,0 +1,12 @@
+C:\Users\ПК\Desktop\PlayerMentionPlugin\obj\Debug\net9.0\PlayerMentionPlugin.csproj.AssemblyReference.cache
+C:\Users\ПК\Desktop\PlayerMentionPlugin\obj\Debug\net9.0\PlayerMentionPlugin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ПК\Desktop\PlayerMentionPlugin\obj\Debug\net9.0\PlayerMentionPlugin.AssemblyInfoInputs.cache
+C:\Users\ПК\Desktop\PlayerMentionPlugin\obj\Debug\net9.0\PlayerMentionPlugin.AssemblyInfo.cs
+C:\Users\ПК\Desktop\PlayerMentionPlugin\obj\Debug\net9.0\PlayerMentionPlugin.csproj.CoreCompileInputs.cache
+C:\Users\ПК\Desktop\PlayerMentionPlugin\bin\Debug\net9.0\PlayerMentionPlugin.deps.json
+C:\Users\ПК\Desktop\PlayerMentionPlugin\bin\Debug\net9.0\PlayerMentionPlugin.dll
+C:\Users\ПК\Desktop\PlayerMentionPlugin\bin\Debug\net9.0\PlayerMentionPlugin.pdb
+C:\Users\ПК\Desktop\PlayerMentionPlugin\obj\Debug\net9.0\PlayerMentionPlugin.dll
+C:\Users\ПК\Desktop\PlayerMentionPlugin\obj\Debug\net9.0\refint\PlayerMentionPlugin.dll
+C:\Users\ПК\Desktop\PlayerMentionPlugin\obj\Debug\net9.0\PlayerMentionPlugin.pdb
+C:\Users\ПК\Desktop\PlayerMentionPlugin\obj\Debug\net9.0\ref\PlayerMentionPlugin.dll
